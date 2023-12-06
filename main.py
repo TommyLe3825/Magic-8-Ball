@@ -10,7 +10,7 @@ print("Welcome to the Magic 8-Ball program. Ask a yes or no question and shake t
 
 while True:
     # Ask for user input
-    question = input("\nAsk a question: ")
+    question = input("\nAsk a Yes or No question: ")
 
     # Randomly select a response from the list of responses
     response = random.choice(responses)
