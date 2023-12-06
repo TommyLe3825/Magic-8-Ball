@@ -4,5 +4,5 @@ The Magic 8 Ball is an entertainment device/toy that has many responses to quest
 
 ![image](https://github.com/TommyLe3825/Magic-8-Ball/assets/54484078/b2a8e8bb-a067-4cd1-a6eb-299dad2ae04f)
 
-* Image is from an article on Britannica by Cydeny Granman "Where Did the Idea for the Magic 8 Ball Come From?"
+* Image is from an article on Britannica by Cydney Granman "Where Did the Idea for the Magic 8 Ball Come From?"
 
